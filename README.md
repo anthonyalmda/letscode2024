@@ -1,1 +1,1 @@
-
+Let's Code se trata de um curso de programação fullstack com +200horas de conteúdo, onde começamos com aulas focando em HTML  e CSS e ao final do curso espera-se uma apresentação de projetos completos, hospedados e com banco de dados funcionais. 
